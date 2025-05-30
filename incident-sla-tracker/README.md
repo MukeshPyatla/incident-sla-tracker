@@ -24,5 +24,3 @@ This project tracks and visualizes incident resolution performance using Power B
 3. Run `refresh_report.ps1` to update Excel and pivot tables.
 4. Open Power BI file to refresh visual dashboard.
 
-## 📄 License
-MIT
